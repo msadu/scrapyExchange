@@ -1,0 +1,2 @@
+# scrapyExchange
+dollar,yuan,exchange
